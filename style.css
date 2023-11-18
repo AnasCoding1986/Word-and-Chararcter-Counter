@@ -1,0 +1,25 @@
+body{
+    padding: 5%;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+h1{
+    background-color: rgb(17, 102, 105);
+    text-align: center;
+    padding: 15px;
+    color: whitesmoke;
+}
+#txt{
+    font-size: 20px;
+    width: 99.6%;
+    margin: -20px 0 0 0;
+    border: 1px solid rgb(17, 102, 105);
+}
+p{
+    background-color: rgb(17, 102, 105);
+    padding: 10px;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 30px;
+    margin: -5px 0 0 0;
+}
